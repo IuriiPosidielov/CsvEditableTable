@@ -1,4 +1,4 @@
-# Editable Tablie with import and export data to CSV format
+# Editable Table with import and export data to CSV format
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
