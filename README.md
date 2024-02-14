@@ -1,3 +1,9 @@
+git clone http://github.com/creationix/nvm.git .nvm   
+nvm install v16.13.0
+typescript 5.3.3
+npx create-react-app invoice --template typescript   
+npm install redux-persist
+
 # Editable Table with import and export data to CSV format
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
